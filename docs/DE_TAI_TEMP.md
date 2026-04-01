@@ -8,10 +8,10 @@
 
 | Thông tin | Chi tiết |
 |-----------|----------|
-| Họ và tên | [Tên sinh viên 1], [Tên sinh viên 2], [Tên sinh viên 3], [Tên sinh viên 4] |
+| Họ và tên | Hồ Nguyễn Quốc Quang, Lê Duy Trung, Trần Trung Vỹ, Trương Đình Quân |
 | Chuyên ngành | An ninh mạng (Cybersecurity) |
-| Lớp | [Lớp] |
-| Khoa | Công nghệ thông tin |
+| Lớp | CS397B |
+| Khoa | Kỹ thuật mạng và truyền thông |
 | Ngày nộp | 01/04/2026 |
 
 ---
@@ -106,10 +106,10 @@ Phishing (lừa đảo trực tuyến) là một trong những hình thức tấ
 
 | Thành viên | Kiến thức nền | Đánh giá |
 |------------|---------------|-----------|
-| SV 1 | [VD: Python, Networking, Security+] | Có nền tảng về security |
-| SV 2 | [VD: ML/Data Science, Python] | Đã học Machine Learning |
-| SV 3 | [VD: Web Development, API, React] | Có kinh nghiệm Frontend |
-| SV 4 | [VD: Python, DevOps, Docker] | Biết về deployment |
+| Hồ Nguyễn Quốc Quang | [VD: Python, Networking, Security+] | Có nền tảng về security |
+| Trương Đình Quân| [VD: ML/Data Science, Python] | Đã học Machine Learning |
+| Lê Duy Trung | [VD: Web Development, API, React] | Có kinh nghiệm Frontend |
+| Trần Trung Vỹ | [VD: Python, DevOps, Docker] | Biết về deployment |
 
 **Đánh giá chung:** Nhóm có đủ kiến thức nền tảng về Python, ML, Web Development và Security để thực hiện đề tài.
 
@@ -147,15 +147,3 @@ Phishing (lừa đảo trực tuyến) là một trong những hình thức tấ
 
 **Ngày nộp:** 01/04/2026
 
-**Xác nhận của sinh viên:**
-
-| Họ và tên | Chữ ký |
-|-----------|--------|
-| [SV 1] | |
-| [SV 2] | |
-| [SV 3] | |
-| [SV 4] | |
-
----
-
-*Lưu ý: Các mục trong [] cần điền thông tin thực tế của sinh viên*
